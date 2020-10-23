@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "461d2aaf58984f059c0c5470799a3ab4",
+    "revision": "aa38b25407ef4ea01ac2fa0f279df104",
     "url": "/cashflow/index.html"
   },
   {
-    "revision": "812afb84cf5e4696216b",
+    "revision": "c110851d251454d8907a",
     "url": "/cashflow/static/css/main.cbb14dbf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cashflow/static/js/2.c15d1e97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "812afb84cf5e4696216b",
-    "url": "/cashflow/static/js/main.c953c10d.chunk.js"
+    "revision": "c110851d251454d8907a",
+    "url": "/cashflow/static/js/main.d0e20c0d.chunk.js"
   },
   {
     "revision": "8e110acb9ae892ce4d18",
