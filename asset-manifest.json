@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cashflow/static/css/main.cbb14dbf.chunk.css",
-    "main.js": "/cashflow/static/js/main.d42bb570.chunk.js",
-    "main.js.map": "/cashflow/static/js/main.d42bb570.chunk.js.map",
+    "main.js": "/cashflow/static/js/main.50f42cdb.chunk.js",
+    "main.js.map": "/cashflow/static/js/main.50f42cdb.chunk.js.map",
     "runtime-main.js": "/cashflow/static/js/runtime-main.65bcebeb.js",
     "runtime-main.js.map": "/cashflow/static/js/runtime-main.65bcebeb.js.map",
     "static/js/2.5062f66c.chunk.js": "/cashflow/static/js/2.5062f66c.chunk.js",
     "static/js/2.5062f66c.chunk.js.map": "/cashflow/static/js/2.5062f66c.chunk.js.map",
     "index.html": "/cashflow/index.html",
-    "precache-manifest.33ba7c5384102eb26101df3bba4aa876.js": "/cashflow/precache-manifest.33ba7c5384102eb26101df3bba4aa876.js",
+    "precache-manifest.2bda8a25f60cdb1525296e98dd61c74a.js": "/cashflow/precache-manifest.2bda8a25f60cdb1525296e98dd61c74a.js",
     "service-worker.js": "/cashflow/service-worker.js",
     "static/css/main.cbb14dbf.chunk.css.map": "/cashflow/static/css/main.cbb14dbf.chunk.css.map",
     "static/js/2.5062f66c.chunk.js.LICENSE.txt": "/cashflow/static/js/2.5062f66c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.65bcebeb.js",
     "static/js/2.5062f66c.chunk.js",
     "static/css/main.cbb14dbf.chunk.css",
-    "static/js/main.d42bb570.chunk.js"
+    "static/js/main.50f42cdb.chunk.js"
   ]
 }
